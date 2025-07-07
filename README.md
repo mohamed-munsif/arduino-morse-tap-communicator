@@ -195,11 +195,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - 🔧 Tinkercad for providing an excellent simulation platform
 
 ---
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-Made with ❤️ by [Munsif](https://github.com/Munsif)
-
-</div>
