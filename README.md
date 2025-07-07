@@ -76,3 +76,4 @@ Note: The letter 'Z' is not included in the standard Tap Code grid.
 ## License
 
 This project is open source and available under the MIT License.
+# arduino-morse-tap-communicator
