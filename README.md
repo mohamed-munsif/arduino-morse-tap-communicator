@@ -6,7 +6,19 @@
 
 A versatile Arduino-based dual-mode communication system that supports both **Morse code** and **Tap code** encoding/decoding. Perfect for educational purposes, emergency communication scenarios, or learning historical communication methods.
 
-## 🎯 Features
+## � Online Simulation
+
+Try the project without physical hardware! Access the **Tinkercad simulation**:
+
+[![Tinkercad Simulation](https://img.shields.io/badge/🔗_Try_Online_Simulation-Tinkercad-1477D1?style=for-the-badge)](https://www.tinkercad.com/things/8HkiRkxXjXT-morse-and-tap-v1?sharecode=vsdd2gJJ9Uky0NXtI056EeGX9bPACdNzHFJiHvPIP_Q)
+
+**Features in simulation:**
+- ✅ Full circuit diagram
+- ✅ Interactive components
+- ✅ Real-time code execution
+- ✅ No hardware required
+
+## �🎯 Features
 
 - 🔄 **Dual Mode Operation**: Seamlessly switch between Morse code and Tap code modes
 - 📻 **Morse Code Mode**: 
@@ -20,18 +32,6 @@ A versatile Arduino-based dual-mode communication system that supports both **Mo
   - 📺 Visual display of current position and selected letter
   - 🎵 Audio feedback for navigation confirmation
 - 💾 **User-Friendly Interface**: Clear LCD display with intuitive controls
-
-## 🌐 Online Simulation
-
-Try the project without physical hardware! Access the **Tinkercad simulation**:
-
-[![Tinkercad Simulation](https://img.shields.io/badge/🔗_Try_Online_Simulation-Tinkercad-1477D1?style=for-the-badge)](https://www.tinkercad.com/things/8HkiRkxXjXT-morse-and-tap-v1?sharecode=vsdd2gJJ9Uky0NXtI056EeGX9bPACdNzHFJiHvPIP_Q)
-
-**Features in simulation:**
-- ✅ Full circuit diagram
-- ✅ Interactive components
-- ✅ Real-time code execution
-- ✅ No hardware required
 
 ## 🛠️ Hardware Requirements
 
