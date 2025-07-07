@@ -184,9 +184,6 @@ Contributions are welcome! Here are ways to contribute:
 4. 📖 **Improve documentation**
 5. 🎨 **Add circuit diagrams** or schematics
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🌟 Acknowledgments
 
