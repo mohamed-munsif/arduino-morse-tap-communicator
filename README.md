@@ -21,6 +21,18 @@ A versatile Arduino-based dual-mode communication system that supports both **Mo
   - 🎵 Audio feedback for navigation confirmation
 - 💾 **User-Friendly Interface**: Clear LCD display with intuitive controls
 
+## 🌐 Online Simulation
+
+Try the project without physical hardware! Access the **Tinkercad simulation**:
+
+[![Tinkercad Simulation](https://img.shields.io/badge/🔗_Try_Online_Simulation-Tinkercad-1477D1?style=for-the-badge)](https://www.tinkercad.com/things/8HkiRkxXjXT-morse-and-tap-v1?sharecode=vsdd2gJJ9Uky0NXtI056EeGX9bPACdNzHFJiHvPIP_Q)
+
+**Features in simulation:**
+- ✅ Full circuit diagram
+- ✅ Interactive components
+- ✅ Real-time code execution
+- ✅ No hardware required
+
 ## 🛠️ Hardware Requirements
 
 | Component | Quantity | Purpose |
@@ -87,18 +99,6 @@ A versatile Arduino-based dual-mode communication system that supports both **Mo
 2. 🔘 **Wire buttons** to pins 2-5 with pull-up resistors
 3. 🔊 **Connect piezo buzzer** to pin 13
 4. 🔋 **Power** the Arduino via USB or external supply
-
-## 🌐 Online Simulation
-
-Try the project without physical hardware! Access the **Tinkercad simulation**:
-
-[![Tinkercad Simulation](https://img.shields.io/badge/🔗_Try_Online_Simulation-Tinkercad-1477D1?style=for-the-badge)](https://www.tinkercad.com/things/8HkiRkxXjXT-morse-and-tap-v1?sharecode=vsdd2gJJ9Uky0NXtI056EeGX9bPACdNzHFJiHvPIP_Q)
-
-**Features in simulation:**
-- ✅ Full circuit diagram
-- ✅ Interactive components
-- ✅ Real-time code execution
-- ✅ No hardware required
 
 ## 📋 Reference Tables
 
