@@ -8,8 +8,6 @@ A versatile Arduino-based dual-mode communication system that supports both **Mo
 
 ## 🎯 Features
 
-## 🎯 Features
-
 - 🔄 **Dual Mode Operation**: Seamlessly switch between Morse code and Tap code modes
 - 📻 **Morse Code Mode**: 
   - ⚫ Input dots and dashes using dedicated buttons
@@ -22,8 +20,6 @@ A versatile Arduino-based dual-mode communication system that supports both **Mo
   - 📺 Visual display of current position and selected letter
   - 🎵 Audio feedback for navigation confirmation
 - 💾 **User-Friendly Interface**: Clear LCD display with intuitive controls
-
-## 🛠️ Hardware Requirements
 
 ## 🛠️ Hardware Requirements
 
@@ -41,8 +37,6 @@ A versatile Arduino-based dual-mode communication system that supports both **Mo
 
 ## 🔌 Pin Configuration
 
-## 🔌 Pin Configuration
-
 | Component | Arduino Pin | Notes |
 |-----------|-------------|-------|
 | **LCD Display** | 7, 8, 9, 10, 11, 12 | Standard LiquidCrystal library pins |
@@ -51,8 +45,6 @@ A versatile Arduino-based dual-mode communication system that supports both **Mo
 | **Column/Dash Button** | 4 | Column navigation (Tap) / Dash input (Morse) |
 | **Enter Button** | 5 | Confirm selection / Letter spacing |
 | **Piezo Buzzer** | 13 | Audio feedback |
-
-## 🎮 How to Use
 
 ## 🎮 How to Use
 
@@ -83,8 +75,6 @@ A versatile Arduino-based dual-mode communication system that supports both **Mo
 
 ## 🔧 Installation & Setup
 
-## 🔧 Installation & Setup
-
 ### Software Setup
 1. 📥 **Install Arduino IDE** from [arduino.cc](https://www.arduino.cc/en/software)
 2. 📂 **Download** or clone this repository
@@ -109,8 +99,6 @@ Try the project without physical hardware! Access the **Tinkercad simulation**:
 - ✅ Interactive components
 - ✅ Real-time code execution
 - ✅ No hardware required
-
-## 📋 Reference Tables
 
 ## 📋 Reference Tables
 
@@ -195,8 +183,6 @@ Contributions are welcome! Here are ways to contribute:
 3. 🔧 **Submit pull requests** with enhancements
 4. 📖 **Improve documentation**
 5. 🎨 **Add circuit diagrams** or schematics
-
-## 📄 License
 
 ## 📄 License
 
